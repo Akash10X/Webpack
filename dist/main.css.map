@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAEA,MACE,aAFM,C","sources":["webpack://webpack/./src/style.scss"],"sourcesContent":["\r\n$color: royalblue;\r\n.blue {\r\n  color: $color;\r\n}\r\n"],"names":[],"sourceRoot":""}
